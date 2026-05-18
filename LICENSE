@@ -1,0 +1,63 @@
+SignChestLock
+Copyright (c) 2026 sovietologist. All Rights Reserved.
+
+1. Ownership.
+   SignChestLock (the "Software"), including its source code, compiled
+   binaries, configuration files, documentation, and any associated
+   assets, is the exclusive property of sovietologist (the "Author").
+   The Software is protected by copyright law and international
+   treaty provisions.
+
+2. Grant of Use.
+   The Author grants the original recipient of this Software a
+   limited, non transferable, non exclusive, revocable license to
+   install and run the Software on Minecraft Java Edition servers
+   that the recipient owns or operates. No other rights are granted.
+
+3. Restrictions.
+   Except with the prior written permission of the Author, the
+   recipient shall not:
+     a) copy, redistribute, publish, host for download, or otherwise
+        make the Software available to third parties;
+     b) sell, sublicense, rent, lease, or otherwise commercialize
+        the Software or any part of it;
+     c) modify, adapt, translate, port, or create derivative works
+        based on the Software;
+     d) decompile, disassemble, reverse engineer, or attempt to
+        derive the source code of the compiled Software except to
+        the extent such activity is expressly permitted by law and
+        cannot be waived by agreement;
+     e) remove, alter, or obscure any copyright notice, license
+        notice, author attribution, or other proprietary marking
+        on or in the Software.
+
+4. Third Party Notices.
+   The Software targets the Spigot/Bukkit API and may interact at
+   runtime with the Vault API. Those projects are the property of
+   their respective owners and are governed by their own licenses.
+   Nothing in this license grants any rights to those third party
+   projects.
+
+5. Termination.
+   This license terminates automatically if the recipient breaches
+   any of the terms above. On termination, the recipient must
+   immediately stop using the Software and destroy all copies in
+   their possession or control.
+
+6. No Warranty.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON
+   INFRINGEMENT.
+
+7. Limitation of Liability.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Contact.
+   For licensing requests, commercial use, or any permission not
+   granted above, contact the Author.
+
+All rights not expressly granted are re
